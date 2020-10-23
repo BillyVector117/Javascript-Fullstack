@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://javascript-fullstack/frontend/styles/app.css"],"names":[],"mappings":"AAAA;IACI,oBAAoB;IACpB,gBAAgB;AACpB,C","file":"css/bundle.css","sourcesContent":["body {\r\n    background: darkgrey;\r\n    color: aliceblue;\r\n}"],"sourceRoot":""}
